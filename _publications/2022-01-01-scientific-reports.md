@@ -1,0 +1,9 @@
+---
+title: "Working memory capacity estimates moderate value learning for outcome-irrelevant features"
+collection: publications
+category: manuscripts
+permalink: /publication/scientific-reports
+date: 2022-01-01
+venue: 'Scientific Reports'
+citation: 'Ben-Artzi, I., Luria, R. & Shahar, N. (2022) &quot;Working memory capacity estimates moderate value learning for outcome-irrelevant features.&quot; <i>Scientific Reports</i>.'
+---
