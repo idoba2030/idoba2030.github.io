@@ -1,16 +1,21 @@
 ---
 layout: single
-title: "My Chess Background"
+title: "My Chess Games"
 permalink: /chess/
 author_profile: true
 ---
 
-# My Chess Background
+# My Chess Games
 
-Here you can write a more detailed history of your chess career. You can include:
+Here are some of my most notable chess games.
 
-* **Ratings & Achievements:** Your FIDE, Chess.com, or other ratings, and any titles or awards you've won.
-* **Mentoring & Coaching:** Details about your experience training other players, like Grandmaster Yahli Sokolovsky.
-* **Notable Games:** You can embed your favorite games here.
+---
 
-Feel free to write more in-depth about your journey and what the game means to you.
+## Game 1: My Best Game
+
+You can paste the embed code from a site like Lichess here.
+
+<iframe src="https://lichess.org/embed/LwR76x7r?theme=auto&amp;bg=auto"
+        width=600 height=397 frameborder=0></iframe>
+
+---
