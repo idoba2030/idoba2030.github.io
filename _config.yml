@@ -32,16 +32,9 @@ author:
   email            : "ido.iba@gmail.com" 
 
   # Academic websites
-  academia         : "https://scholar.google.co.il/citations?user=YlkTgGIAAAAJ&hl=en&inst=2457744612629960019&oi=ao"
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  googlescholar    : "https://scholar.google.co.il/citations?user=YlkTgGIAAAAJ&hl"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5971-8613"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Ido-Ben-Artzi?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJsb2dpbiIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
-  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
