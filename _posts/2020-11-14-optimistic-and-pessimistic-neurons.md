@@ -8,7 +8,3 @@ tags:
   - machine-learning
 link: "https://ido-iba.medium.com/optimistic-and-pessimistic-neurons-b12e3e536109"
 ---
-
-This article, originally published on Medium, explores the connection between neuroscience and machine learning models, specifically how neurons can exhibit optimistic and pessimistic behaviors.
-
-[Read the full article on Medium.](https://ido-iba.medium.com/optimistic-and-pessimistic-neurons-b12e3e536109)
