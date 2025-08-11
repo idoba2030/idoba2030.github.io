@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/idoba2030"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "https://bsky.app/profile/idoba.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,18 +62,18 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/ido-ben-artzi-014423189/"
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://medium.com/@ido-iba"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "https://x.com/IdoBa1"
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%93%D7%95_%D7%91%D7%9F-%D7%90%D7%A8%D7%A6%D7%99"
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
