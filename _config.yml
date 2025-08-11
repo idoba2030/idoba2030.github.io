@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Ido Ben-Artzi"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "He/him"
+  bio              : "Neuroscience PhD student and an International chess master."
   location         : "Tel-Aviv"
   employer         : "Tel-Aviv University"
   email            : "ido.iba@gmail.com"
