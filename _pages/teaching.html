@@ -7,3 +7,32 @@ venue: "Mathpsych 2024, Tilburg, Netherlands"
 date: 2024-01-01
 link: "https://relic-collarbone-9bf.notion.site/RL-workshop-e31506e292fc4e17a986484f0219382a"
 ---
+---
+layout: single
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+## Teaching
+<ul>
+{% for teaching in site.teaching %}
+	<li>
+		<strong>{{ teaching.title }}</strong>
+		{% if teaching.venue %} — {{ teaching.venue }}{% endif %}
+		{% if teaching.date %} ({{ teaching.date | date: "%B %d, %Y" }}){% endif %}
+		{% if teaching.link %} — <a href="{{ teaching.link }}" target="_blank">View</a>{% endif %}
+	</li>
+{% endfor %}
+
+	<!-- Manually added entries -->
+	<li>
+		<strong>Teaching Assistant</strong> — Statistics and Research Methods; Basics of Programming in R (Psychology and Neuroscience graduate students)  
+	</li>
+	<li>
+		<strong>Teaching Assistant, <a href="https://compneuro.neuromatch.io/tutorials/intro.html" target="_blank">Neuromatch Academy</a></strong> — 3-week course on Computational Neuroscience; mentored student projects  
+	</li>
+	<li>
+		<strong>Teacher – XTRA student (Tel Aviv University)</strong> — Physiological Psychology B; curriculum development  
+	</li>
+</ul>
