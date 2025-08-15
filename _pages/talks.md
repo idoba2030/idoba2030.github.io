@@ -4,8 +4,9 @@ permalink: /talks/
 author_profile: true
 
 
-<div style="margin-bottom:2em;">
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/KpP7cI8ttes" title="Chess, autism, and the hidden strengths of neurodiversity | Ido Ben-Artzi | TEDxTelAvivUniversity" frameborder="0" allowfullscreen></iframe>
+
+<div style="display: flex; justify-content: center; margin-bottom: 2em;">
+  <iframe width="420" height="236" src="https://www.youtube.com/embed/KpP7cI8ttes" title="Chess, autism, and the hidden strengths of neurodiversity | Ido Ben-Artzi | TEDxTelAvivUniversity" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <ul>
