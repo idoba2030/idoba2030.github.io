@@ -1,15 +1,3 @@
-title: "Chess, autism, and the hidden strengths of neurodiversity | Ido Ben-Artzi | TEDxTelAvivUniversity"
-collection: talks
-type: "TEDx Talk"
-permalink: /talks/2025-01-16-tedxtalk
-venue: "TEDxTelAvivUniversity"
-date: 2025-01-16
-link: "https://youtu.be/KpP7cI8ttes?si=ADEtmvfrXW5KASV3"
-layout: single
-title: "Talks"
-permalink: /talks/
-author_profile: true
-
 ---
 layout: single
 title: "Talks"
@@ -17,27 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% for talk in site.talks %}
-	<li>
-		<strong>{{ talk.title }}</strong>
-		{% if talk.venue %} — {{ talk.venue }}{% endif %}
-		{% if talk.date %} ({{ talk.date | date: "%B %d, %Y" }}){% endif %}
-		{% if talk.link %} — <a href="{{ talk.link }}" target="_blank">View</a>{% endif %}
-	</li>
-{% endfor %}
-</ul>
-<!-- Manually added selected talks -->
+<div style="margin-bottom:2em;">
+	<iframe width="100%" height="400" src="https://www.youtube.com/embed/KpP7cI8ttes" title="Chess, autism, and the hidden strengths of neurodiversity | Ido Ben-Artzi | TEDxTelAvivUniversity" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <ul>
-{% for talk in site.talks %}
-	<li>
-		<strong>{{ talk.title }}</strong>
-		{% if talk.venue %} — {{ talk.venue }}{% endif %}
-		{% if talk.date %} ({{ talk.date | date: "%B %d, %Y" }}){% endif %}
-		{% if talk.link %} — <a href="{{ talk.link }}" target="_blank">View</a>{% endif %}
-	</li>
-{% endfor %}
-</ul>
 	<li>Reduced Outcome-Irrelevant Learning in Autistic Spectrum Disorder — Israeli Computational Psychiatry Conference 2025, Tel Aviv, Israel (15-minute talk)</li>
 	<li>Automatic and implicit outcome-irrelevant model-free learning in human behavior — Tel-Aviv School of Psychology Conference (15-minute talk)</li>
 	<li>Computational reinforcement learning processes underlying the onset and maintenance of ritualistic behavior — Israeli Biological Psychiatry Conference, Jerusalem, Israel</li>
