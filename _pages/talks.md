@@ -6,8 +6,8 @@ author_profile: true
 
 
 
-<div style="position: relative; width: 100%; max-width: 480px; margin: 0 auto 2em auto; aspect-ratio: 16/9;">
-  <iframe src="https://www.youtube.com/embed/KpP7cI8ttes" title="Chess, autism, and the hidden strengths of neurodiversity | Ido Ben-Artzi | TEDxTelAvivUniversity" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+<div style="width: 420px; height: 236px; margin: 0 auto 2em auto; display: flex; justify-content: center; align-items: center;">
+  <iframe width="420" height="236" src="https://www.youtube.com/embed/KpP7cI8ttes" title="Chess, autism, and the hidden strengths of neurodiversity | Ido Ben-Artzi | TEDxTelAvivUniversity" style="border: 0;" allowfullscreen></iframe>
 </div>
 
 <ul>
