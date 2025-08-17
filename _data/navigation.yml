@@ -7,7 +7,7 @@ main:
     url: /teaching/
   - title: "Chess"
     url: /chess/
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: /blog/
   - title: "CV"
     url: /cv/
