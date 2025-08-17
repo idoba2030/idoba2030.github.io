@@ -105,8 +105,8 @@ author_profile: true
   <div class="blog-card">
     <img class="blog-card-img" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*OdJnZ3e_Z0fZo3wHCGm1LA.jpeg" alt="From an amateur Chess player to Europe’s #1">
     <div class="blog-card-content">
-      <div class="blog-card-title">From an amateur Chess player to Europe’s #1</div>
-      <div class="blog-card-excerpt">The inspiring journey of Yahli Sokolovsky from a young chess enthusiast to Europe’s top-ranked player in his age group.</div>
+      <div class="blog-card-title">From an amateur Chess player to Europe's #1</div>
+      <div class="blog-card-excerpt">The inspiring journey of Yahli Sokolovsky from a young chess enthusiast to Europe's top-ranked player in his age group.</div>
       <a class="blog-card-link" href="https://ido-iba.medium.com/from-an-amateur-chess-player-to-europes-1-3e174ed9d4f4" target="_blank" rel="noopener">Read on Medium</a>
     </div>
   </div>
@@ -122,26 +122,3 @@ author_profile: true
     </div>
   </div>
 </div>
-
-<script>
-// Replace 'your-medium-username' with your actual Medium username (without the @)
-  fetch("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@ido-iba")
-  .then(res => res.json())
-  .then(data => {
-    const container = document.getElementById('medium-articles');
-    container.innerHTML = '';
-    data.items.forEach(article => {
-      const card = document.createElement('div');
-      card.className = 'blog-card';
-      card.innerHTML = `
-        <img class="blog-card-img" src="${article.thumbnail}" alt="${article.title}">
-        <div class="blog-card-content">
-          <div class="blog-card-title">${article.title}</div>
-          <div class="blog-card-excerpt">${article.description.replace(/<[^>]+>/g, '').substring(0, 120)}...</div>
-          <a class="blog-card-link" href="${article.link}" target="_blank" rel="noopener">Read on Medium</a>
-        </div>
-      `;
-      container.appendChild(card);
-    });
-  });
-</script>
