@@ -33,8 +33,8 @@ author_profile: true
 .chess-embed {
         display: block;
         margin: 2em auto;
-        width: 900px;
-        height: 600px;
+        width: 110px;
+        height: 800px;
         border: 1px solid #ddd;
         border-radius: 8px;
         box-shadow: 0 2px 12px rgba(0,0,0,0.06);
