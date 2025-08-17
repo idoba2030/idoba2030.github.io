@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My Chess Games"
+title: ""
 permalink: /chess/
 author_profile: true
 ---
