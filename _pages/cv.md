@@ -7,37 +7,15 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+<div style="text-align:center; margin-top: 2em;">
+  <embed src="/files/cv.pdf" type="application/pdf" width="80%" height="700px" style="border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); border: 1px solid #ddd;" />
+  <div style="margin-top: 1.5em;">
+    <a href="/files/cv.pdf" download style="display:inline-block; padding: 1em 2em; background: #6c63ff; color: #fff; border-radius: 8px; font-size: 1.2em; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+      Download CV (PDF)
+    </a>
+  </div>
+</div>
   * Sub-skill 2.3
 * Skill 3
 
