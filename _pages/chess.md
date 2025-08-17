@@ -54,6 +54,6 @@ author_profile: true
 
 <iframe class="chess-embed" src="https://share.chessbase.com/SharedGames/share/?p=5QPZTO6ADlRMZmxtaiSkneG4nmZbPP+KENZCifr+g6/GFG6evl5MYYzjp7Bvyp7u" allowfullscreen></iframe>
 
-<iframe class="chess-embed" src="https://share.chessbase.com/SharedGames/share/?p=5QPZTO6ADlRMZmxtaiSkneG4nmZbPP+KENZCifr+g6/GFG6evl5MYYzjp7Bvyp7u" allowfullscreen></iframe>
+<iframe class="chess-embed" src="https://share.chessbase.com/SharedGames/share/?p=7mq5qPYkoHMHzFQrtUCo1J5fZSfSzDiLFEsLWMlcQ8/eEe8BdT37QFEIbEXoIfI5" allowfullscreen></iframe>
 
 ---
