@@ -9,7 +9,7 @@ redirect_from:
 
 ## Science
 
-I'm Ido, a neuroscience Ph.D. student at Tel Aviv University, where I study how people learn from rewards to guide their decisions. My research focuses on the human tendency to associate actions with rewarding outcomes even when there is no causal connection, using computational modeling and EEG to explore the neural mechanisms involved in this process.
+I'm Ido, a neuroscience Ph.D. student at [Prof. Nitzan Shahar's lab at Tel Aviv University](https://www.shahar-lab.com/), where I study how people learn from rewards to guide their decisions. My research focuses on the human tendency to associate actions with rewarding outcomes even when there is no causal connection, using computational modeling and EEG to explore the neural mechanisms involved in this process.
 
 ---
 
