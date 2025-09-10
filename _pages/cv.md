@@ -10,9 +10,9 @@ redirect_from:
 
 
 <div style="text-align:center; margin-top: 2em;">
-  <iframe src="https://drive.google.com/file/d/16SWTzRFjG-QbT64QeyAmewALcr3lO63g/preview" width="80%" height="700px" style="border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); border: 1px solid #ddd;"></iframe>
+  <iframe src="https://drive.google.com/file/d/1Bs7p04ifePaCTeruXbJCpQMwCR1AHI29/preview" width="80%" height="700px" style="border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); border: 1px solid #ddd;"></iframe>
   <div style="margin-top: 1.5em;">
-    <a href="https://drive.google.com/file/d/16SWTzRFjG-QbT64QeyAmewALcr3lO63g/view?usp=sharing" target="_blank" rel="noopener" style="display:inline-block; padding: 1em 2em; background: #6c63ff; color: #fff; border-radius: 8px; font-size: 1.2em; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    <a href="https://drive.google.com/file/d/1Bs7p04ifePaCTeruXbJCpQMwCR1AHI29/view?usp=sharing" target="_blank" rel="noopener" style="display:inline-block; padding: 1em 2em; background: #6c63ff; color: #fff; border-radius: 8px; font-size: 1.2em; text-decoration: none; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
       View & Download CV (PDF)
     </a>
   </div>
