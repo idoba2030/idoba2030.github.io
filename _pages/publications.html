@@ -9,28 +9,47 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<style>
+.pub-list .pub {
+  margin-bottom: 10px;
+  padding-left: 18px;
+  text-indent: -18px;
+  font-size: 1em;
+  line-height: 1.55;
+}
+.pub-list .pub .journal { font-weight: 700; }
+.pub-list .pub .venue-italic { font-style: italic; }
+.pub-list .pub .status { font-style: italic; color: #555; }
+.pub-list a.pub-link { color: inherit; border-bottom: 1px solid #888; text-decoration: none; }
+.pub-list a.pub-link:hover { border-bottom-color: #333; }
+.pub-list h2 { margin-top: 1.5em; margin-bottom: 0.5em; }
+</style>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="pub-list">
+
+<h2>Journal Articles</h2>
+
+<div class="pub">
+  <strong>Ben-Artzi, I.</strong>, Rozenkrantz, L., Shahar, N. (2026). <a href="https://www.nature.com/articles/s41398-026-04000-x" class="pub-link">Autism-associated learning patterns show reduced credit assignment to outcome-irrelevant features.</a> <span class="journal">Translational Psychiatry</span> (JCR 2024: IF=6.2, Q1 21/288 in Psychiatry)
+</div>
+
+<div class="pub">
+  <strong>Ben-Artzi, I.</strong>, Kessler, Y., Nicenboim, B., &amp; Shahar, N. (2023). <a href="https://www.science.org/doi/abs/10.1126/sciadv.adi2704" class="pub-link">Computational mechanisms underlying latent value updating of unchosen actions.</a> <span class="journal">Science Advances</span> (JCR 2022: IF=13.6, Q1 7/73 in Multidisciplinary Sciences)
+</div>
+
+<div class="pub">
+  <strong>Ben-Artzi, I.</strong>, Luria, R., &amp; Shahar, N. (2022). <a href="https://www.nature.com/articles/s41598-022-21832-x" class="pub-link">Working memory capacity estimates moderate value learning for outcome-irrelevant features.</a> <span class="journal">Scientific Reports</span> (JCR 2021: IF=4.997, Q2 19/74 in Multidisciplinary Sciences)
+</div>
+
+<div class="pub">
+  Pereg, M., Hertz, U., <strong>Ben-Artzi, I.</strong>, &amp; Shahar, N. (2024). <a href="https://www.nature.com/articles/s41539-024-00214-0" class="pub-link">Disentangling the contribution of individual and social learning processes in human advice-taking behavior.</a> <span class="journal">Npj Science of Learning</span> (JCR 2022: IF=4.2, Q1 41/269 in Educational Research)
+</div>
+
+<h2>Conference Papers</h2>
+
+<div class="pub">
+  <strong>Ben-Artzi, I.</strong>, &amp; Shahar, N. (2024). <a href="https://openreview.net/forum?id=JADzOpkqiU" class="pub-link">Outcome-Irrelevant and State-Independent Learning Mechanisms in Human Reinforcement Learning.</a> <span class="venue-italic">NeurIPS 2024 Workshop on Behavioral Machine Learning.</span>
+</div>
 
 
-
+</div>
