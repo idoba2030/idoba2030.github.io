@@ -23,6 +23,10 @@ BROWSER_CANDIDATES = [
     r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
 ]
 
+NAME = "Ido Ben-Artzi"
+WEBSITE = "https://idoba2030.github.io"
+EMAIL = "ido.iba@gmail.com"
+
 HTML_TEMPLATE = """<!doctype html>
 <html lang="en">
 <head>
@@ -40,13 +44,43 @@ HTML_TEMPLATE = """<!doctype html>
       background: #fff;
       margin: 0; padding: 0;
     }}
+    .cv-title-header {{
+      text-align: center;
+      margin-bottom: 18px;
+      padding-bottom: 12px;
+      border-bottom: 2px solid #1a1a1a;
+    }}
+    .cv-title-header h1 {{
+      font-size: 22pt;
+      font-weight: 700;
+      margin: 0 0 6px 0;
+      letter-spacing: 0.02em;
+    }}
+    .cv-title-header .cv-contact {{
+      font-size: 10.5pt;
+      color: #333;
+    }}
+    .cv-title-header .cv-contact a {{
+      color: #1a1a1a;
+      text-decoration: none;
+      border-bottom: 1px solid #888;
+    }}
     {styles}
     .cv-embed {{ max-width: 100%; padding: 0; margin: 0; font-size: 11pt; }}
+    .cv-embed header {{ display: none; }}
     a.pub-link {{ color: inherit; text-decoration: none; border-bottom: 1px solid #888; }}
     a {{ color: inherit; }}
   </style>
 </head>
 <body>
+  <div class="cv-title-header">
+    <h1>{name}</h1>
+    <div class="cv-contact">
+      <a href="{website}">{website_display}</a>
+      &nbsp;&bull;&nbsp;
+      <a href="mailto:{email}">{email}</a>
+    </div>
+  </div>
 {body}
 </body>
 </html>"""
@@ -83,7 +117,14 @@ def main():
     md_text = CV_MD.read_text(encoding="utf-8")
     styles = extract_styles(md_text)
     body = extract_body(md_text)
-    html = HTML_TEMPLATE.format(styles=styles, body=body)
+    html = HTML_TEMPLATE.format(
+        styles=styles,
+        body=body,
+        name=NAME,
+        website=WEBSITE,
+        website_display=WEBSITE.replace("https://", ""),
+        email=EMAIL,
+    )
 
     with tempfile.NamedTemporaryFile(suffix=".html", delete=False,
                                      mode="w", encoding="utf-8") as f:
