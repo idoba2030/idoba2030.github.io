@@ -199,19 +199,19 @@ redirect_from:
   </div>
 
   <div class="pub">
-    <strong>Ben-Artzi, I.</strong>, Pereg, M., Luria, R., Moran, R., Shahar, N. (2026). <a href="https://osf.io/download/73d5t" class="pub-link">Automatic value learning results in counterproductive human behavior.</a> <span class="status">(Under review – <span class="venue-italic">Nature Communications</span>)</span>
+    <strong>Ben-Artzi, I.</strong>, Pereg, M., Luria, R., Moran, R., Shahar, N. (2026). <a href="https://osf.io/download/73d5t" class="pub-link">Automatic value learning results in counterproductive human behavior.</a> <span class="status">(Revise &amp; Resubmit – <span class="venue-italic">Nature Communications</span>)</span>
   </div>
 
   <div class="pub">
-    <strong>Ben-Artzi, I.</strong>, Russek, E., Kuperwajs, I., Shahar, N., Mattar, M., Ma, W.J., Griffiths, T. (2026). People make history-dependent decisions in Markovian environments. <span class="status">(Under review – <span class="venue-italic">PNAS</span>)</span>
+    <strong>Ben-Artzi, I.</strong>, Russek, E., Kuperwajs, I., Shahar, N., Mattar, M., Ma, W.J., Griffiths, T. (2026). People make history-dependent decisions in Markovian environments. <span class="status">(Under review)</span>
   </div>
 
   <div class="pub">
-    <strong>Ben-Artzi, I.</strong>, Braem, S., Lamy, D., Shahar, N. The generality of outcome-irrelevant credit assignment in human learning. <span class="status">(Registered report under review – <span class="venue-italic">Psychonomic Bulletin &amp; Review</span>)</span>
+    <strong>Ben-Artzi, I.</strong>, Braem, S., Lamy, D., Shahar, N. The generality of outcome-irrelevant credit assignment in human learning. <span class="status">(Registered report Revise &amp; Resubmit – <span class="venue-italic">Psychonomic Bulletin &amp; Review</span>)</span>
   </div>
 
   <div class="pub">
-    <strong>Ben-Artzi, I.</strong>, Kagan, A., Shir, Y., Mudrik, L., Shahar, N. Automatic outcome-irrelevant value learning facilitates picking. <span class="status">(Registered report under review – <span class="venue-italic">Communications Psychology</span>)</span>
+    <strong>Ben-Artzi, I.</strong>, Kagan, A., Shir, Y., Mudrik, L., Shahar, N. Automatic outcome-irrelevant value learning facilitates picking. <span class="status">(Registered report – Under review)</span>
   </div>
 
   <div class="pub">
@@ -277,7 +277,7 @@ redirect_from:
 
   <div class="entry">
     <span class="entry-date">05/2026</span>
-    <div class="entry-body"><strong>Ben-Artzi, I.</strong>, Rozenkrantz, L., Shahar, N. Autism-associated learning patterns show reduced credit assignment to outcome-irrelevant features. <em>Israeli Biological Psychiatry Conference, Hagoshrim, Israel.</em></div>
+    <div class="entry-body"><strong>Ben-Artzi, I.</strong>, Rozenkrantz, L., Shahar, N. Autism-associated learning patterns show reduced credit assignment to outcome-irrelevant features. <em>Israeli Biological Psychiatry Conference, Jerusalem, Israel.</em></div>
   </div>
   <div class="entry">
     <span class="entry-date">02/2026</span>
