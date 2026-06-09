@@ -179,6 +179,10 @@ redirect_from:
   <h2>Publications</h2>
 
   <div class="pub">
+    <strong>Ben-Artzi, I.</strong>, Pereg, M., Luria, R., Moran, R., Shahar, N. (2026). <a href="https://osf.io/download/73d5t" class="pub-link">Automatic value learning results in counterproductive human behavior.</a> <span class="status">(In Press – <span class="venue-italic">Nature Communications</span>)</span> (JCR 2024: IF=15.7, Q1 10/136 in Multidisciplinary Sciences)
+  </div>
+
+  <div class="pub">
     <strong>Ben-Artzi, I.</strong>, Rozenkrantz, L., Shahar, N. (2026). <a href="https://www.nature.com/articles/s41398-026-04000-x" class="pub-link">Autism-associated learning patterns show reduced credit assignment to outcome-irrelevant features.</a> <span class="journal">Translational Psychiatry</span> (JCR 2024: IF=6.2, Q1 21/288 in Psychiatry)
   </div>
 
@@ -196,10 +200,6 @@ redirect_from:
 
   <div class="pub">
     Pereg, M., Hertz, U., <strong>Ben-Artzi, I.</strong>, &amp; Shahar, N. (2024). <a href="https://www.nature.com/articles/s41539-024-00214-0" class="pub-link">Disentangling the contribution of individual and social learning processes in human advice-taking behavior.</a> <span class="journal">Npj Science of Learning</span> (JCR 2022: IF=4.2, Q1 41/269 in Educational Research)
-  </div>
-
-  <div class="pub">
-    <strong>Ben-Artzi, I.</strong>, Pereg, M., Luria, R., Moran, R., Shahar, N. (2026). <a href="https://osf.io/download/73d5t" class="pub-link">Automatic value learning results in counterproductive human behavior.</a> <span class="status">(Revise &amp; Resubmit – <span class="venue-italic">Nature Communications</span>)</span>
   </div>
 
   <div class="pub">
@@ -231,6 +231,10 @@ redirect_from:
 <section>
   <h2>Invited Talks</h2>
 
+  <div class="entry">
+    <span class="entry-date">05/2026</span>
+    <div class="entry-body"><strong>Ben-Artzi, I.</strong>, Pereg, M., Luria, R., Moran, R., Shahar, N. Automatic value learning results in counterproductive human behavior. <em>Neural basis of cognition lab (Prof. Finkelstein)</em> (invited talk)</div>
+  </div>
   <div class="entry">
     <span class="entry-date">10/2025</span>
     <div class="entry-body"><strong>Ben-Artzi, I.</strong>, Russek, E., Griffiths, T. People make history-dependent decisions in Markovian environments. <em>Wei Ji Ma &amp; Marcelo Mattar lab meeting, NYU</em> (60-min talk)</div>
@@ -514,6 +518,7 @@ redirect_from:
     <li>Cerebral Cortex</li>
     <li>Journal of Behavior Therapy and Experimental Psychiatry</li>
     <li>CogSci Conference</li>
+    <li>Computational Cognitive Neuroscience Conference</li>
   </ul>
 </section>
 
