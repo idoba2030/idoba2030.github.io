@@ -233,7 +233,7 @@ redirect_from:
 
   <div class="entry">
     <span class="entry-date">05/2026</span>
-    <div class="entry-body"><strong>Ben-Artzi, I.</strong>, Pereg, M., Luria, R., Moran, R., Shahar, N. Automatic value learning results in counterproductive human behavior. <em>Neural basis of cognition lab (Prof. Finkelstein)</em> (invited talk)</div>
+    <div class="entry-body"><strong>Ben-Artzi, I.</strong>, Pereg, M., Luria, R., Moran, R., Shahar, N. Automatic value learning results in counterproductive human behavior. <em>Neural Basis of Cognition Lab (Prof. Finkelstein), Tel Aviv University</em> (invited talk)</div>
   </div>
   <div class="entry">
     <span class="entry-date">10/2025</span>
