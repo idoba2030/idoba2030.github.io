@@ -203,7 +203,7 @@ redirect_from:
   </div>
 
   <div class="pub">
-    <strong>Ben-Artzi, I.</strong>, Russek, E., Kuperwajs, I., Shahar, N., Mattar, M., Ma, W.J., Griffiths, T. (2026). People make history-dependent decisions in Markovian environments. <span class="status">(Under review)</span>
+    <strong>Ben-Artzi, I.</strong>, Russek, E., Kuperwajs, I., Shahar, N., Mattar, M., Ma, W.J., Griffiths, T. (2026). <a href="https://osf.io/preprints/psyarxiv/df7be_v1" class="pub-link">People make history-dependent decisions in Markovian environments.</a> <span class="status">(Under review)</span>
   </div>
 
   <div class="pub">
